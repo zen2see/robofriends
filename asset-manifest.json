@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zen2see/robofriends/static/css/main.61d32c02.chunk.css",
+    "main.js": "/zen2see/robofriends/static/js/main.4f9da4d9.chunk.js",
+    "main.js.map": "/zen2see/robofriends/static/js/main.4f9da4d9.chunk.js.map",
+    "runtime-main.js": "/zen2see/robofriends/static/js/runtime-main.f9ff45ee.js",
+    "runtime-main.js.map": "/zen2see/robofriends/static/js/runtime-main.f9ff45ee.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/zen2see/robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/zen2see/robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/zen2see/robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/zen2see/robofriends/index.html",
+    "precache-manifest.09285506432effd9acd48da4e2e60e22.js": "/zen2see/robofriends/precache-manifest.09285506432effd9acd48da4e2e60e22.js",
+    "service-worker.js": "/zen2see/robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/zen2see/robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.61d32c02.chunk.css.map": "/zen2see/robofriends/static/css/main.61d32c02.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/zen2see/robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/zen2see/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9ff45ee.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.61d32c02.chunk.css",
+    "static/js/main.4f9da4d9.chunk.js"
+  ]
+}
